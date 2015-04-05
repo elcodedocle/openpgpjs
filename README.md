@@ -7,7 +7,17 @@ openpgpjs by [hanewin][1] (packaged by elcodedocle)
  
 ### How to use
 
-The same way as regular phpass; check out the embedded phpdoc for info on the extras.
+```
+<script src="path/to/aes-enc.js"></script>
+<script src="path/to/base64.js"></script>
+<script src="path/to/rsa.js"></script>
+<script src="path/to/PGencode.js"></script>
+<script type="text/javascript">
+  doEncrypt(keyId, keyType, publicKey, text);
+</script>
+```
+
+(More info at http://www.hanewin.net/encrypt/PGencode.htm)
 
 
 ### Motivation
