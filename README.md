@@ -8,10 +8,10 @@ openpgpjs by [hanewin][1] (packaged by elcodedocle)
 ### How to use
 
 ```
-<script src="path/to/aes-enc.js"></script>
-<script src="path/to/base64.js"></script>
-<script src="path/to/rsa.js"></script>
-<script src="path/to/PGencode.js"></script>
+<script type="text/javascript" src="path/to/aes-enc.js"></script>
+<script type="text/javascript" src="path/to/base64.js"></script>
+<script type="text/javascript" src="path/to/rsa.js"></script>
+<script type="text/javascript" src="path/to/PGencode.js"></script>
 <script type="text/javascript">
   doEncrypt(keyId, keyType, publicKey, text);
 </script>
