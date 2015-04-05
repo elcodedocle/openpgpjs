@@ -1,0 +1,18 @@
+{
+    "name": "elcodedocle/openpgpjs",
+    "description": "GnuPG compatible Javascript client library",
+    "keywords": ["PGP", "GPG", "RSA", "OpenPGP", "AES"],
+    "type": "library",
+    "homepage": "https://github.com/elcodedocle/openpgpjs",
+    "license": "MIT Expat",
+    "authors": [
+        {
+            "name": "Herbert Hanewinkel",
+            "homepage": "http://www.hanewin.net/encrypt/PGencode.htm"
+        },
+        {
+            "name": "elcodedocle (packaging)",
+            "homepage": "https://github.com/elcodedocle"
+        }
+    ]
+}
