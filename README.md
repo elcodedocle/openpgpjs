@@ -1,4 +1,4 @@
-openpgpjs by [hanewin][1] (packaged by elcodedocle)
+openpgpjs by [hanewin][1] (packaged by Gael Abadin)
 ==================================================
 #####*A GnuPG compatible PGP (RSA/AES) Javascript encryption library*
 
@@ -35,4 +35,4 @@ Enjoy!
 
 [1]: http://www.hanewin.net/encrypt/PGencode.htm
 [2]: http://www.haneWIN.de
-[3]: https://raw.githubusercontent.com/elcodedocle/openpgpjs/master/LICENSE
+[3]: https://bitbucket.org/synappv1/openpgpjs/raw/master/LICENSE

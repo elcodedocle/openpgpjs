@@ -1,5 +1,5 @@
 
-/* Rijndael (AES) Encryption
+/*! Rijndael (AES) Encryption
  * Copyright 2005 Herbert Hanewinkel, www.haneWIN.de
  * version 1.1, check www.haneWIN.de for the latest version
 

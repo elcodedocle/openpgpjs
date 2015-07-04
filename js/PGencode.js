@@ -1,5 +1,5 @@
 
-/* OpenPGP encryption using RSA/AES
+/*! OpenPGP encryption using RSA/AES
  * Copyright 2005-2006 Herbert Hanewinkel, www.haneWIN.de
  * version 2.0, check www.haneWIN.de for the latest version
 

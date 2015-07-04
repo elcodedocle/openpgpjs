@@ -1,5 +1,5 @@
 
-/* OpenPGP radix-64/base64 string encoding/decoding
+/*! OpenPGP radix-64/base64 string encoding/decoding
  * Copyright 2005 Herbert Hanewinkel, www.haneWIN.de
  * version 1.0, check www.haneWIN.de for the latest version
 
