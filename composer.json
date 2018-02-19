@@ -4,7 +4,7 @@
     "keywords": ["PGP", "GPG", "RSA", "OpenPGP", "AES"],
     "type": "library",
     "homepage": "https://bitbucket.org/synappv1/openpgpjs",
-    "license": "MIT Expat",
+    "license": "MIT",
     "authors": [
         {
             "name": "Herbert Hanewinkel",
